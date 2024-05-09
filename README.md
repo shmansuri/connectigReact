@@ -1,1 +1,1 @@
-# connectigReact
+# connectingReact
